@@ -16,4 +16,4 @@ After Creating Virtual Environment
 Then Run Model Class For Traing Our Model in Model Class First Set the Path Of Dataset Where you Download it.
                   Run Applicaion Class File Finally     
                  
-                  
+ Link for the Dataset - https://archive.ics.uci.edu/ml/datasets/Devanagari+Handwritten+Character+Dataset                 
